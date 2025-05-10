@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: crawl2know-bot
+    runtime: python
+    repo: https://github.com/YOUR_USERNAME/YOUR_REPO
+    branch: main
+    buildCommand: |
+      pip install -r requirements.txt
+      chmod +x start.sh
+    startCommand: ./start.sh
+    envVars:
+      - key: TELEGRAM_TOKEN
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
