@@ -80,6 +80,3 @@ You can view a PDF demonstrating the bot's output here:
 
 [View Output PDF (output.pdf)](output.pdf) 
 
-Alternatively, if hosted:
-[View Output PDF on GitHub](https://github.com/Mandalor-09/Crawl2Know/output.pdf) 
-*(Replace with the actual raw link to your PDF)*
