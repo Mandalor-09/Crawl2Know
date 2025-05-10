@@ -6,4 +6,4 @@ crew4ai setup
 
 # Step 2: Start the Telegram bot
 echo "🚀 Starting bot..."
-python3 main3.py
+python3 home.py
