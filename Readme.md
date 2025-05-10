@@ -71,5 +71,5 @@ TELEGRAM_TOKEN="your_telegram_bot_token_here"
 
 ### 5. Run the Bot
 ```bash
-python main.py
+python home.py
 ```
